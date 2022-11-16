@@ -12,9 +12,7 @@
         http://www.springframework.org/schema/mvc/spring-mvc.xsd">
 
 
-
-
-
+	<bean id="triangle" class="com.badrinathd.learnspring.Triangle"></bean>
 
 
 </beans>
